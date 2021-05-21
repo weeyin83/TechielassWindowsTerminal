@@ -1,5 +1,5 @@
-# TechielassWindowsTerminal
-My Windows Terminal Customisation
+# My Windows Terminal Customisation
+
 
 Within this repo you will find my Windows Terminal customisation settings file. 
 
